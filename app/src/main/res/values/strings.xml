@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WatchAndCalendar</string>
+    <string name="text_name_app">Watch and  Calendar</string>
+    <string name="chronometerText">Chronometer</string>
+    <string name="startText">Start</string>
+    <string name="StopText">Stop</string>
+    <string name="cronobutton">Chronometer</string>
+</resources>
